@@ -3,5 +3,6 @@ source "https://rubygems.org"
 
 # gem "rails"
 
-gem 'sinatra', :require => 'sinatra'
-gem 'sinatra-twitter-bootstrap', :require => 'sinatra/twitter-bootstrap'
+gem 'sinatra'
+gem 'ruby', '2.0.0'
+
